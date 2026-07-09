@@ -149,12 +149,6 @@ I'm currently improving my skills in:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszoia&show_icons=true&theme=github_dark)
-
----
-
 ## Contact
 
 I'm open to opportunities related to web development, internal tools, dashboards, automation and AI-assisted development.
