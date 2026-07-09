@@ -151,10 +151,7 @@ I'm currently improving my skills in:
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luisnuernberg&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisnuernberg&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszoia&show_icons=true&theme=github_dark)
 
 ---
 
